@@ -1,0 +1,22 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "model": "BMW X8",
+        "color": "Preto",
+        "price": 355.95
+      },
+      {
+        "id": 2,
+        "model": "Camaro c180",
+        "color": "Cinza",
+        "price": 154.9
+      },
+      {
+        "id": 3,
+        "model": "Land Rover ",
+        "color": "Azul",
+        "price": 577.38
+      }
+    ]
+  }
