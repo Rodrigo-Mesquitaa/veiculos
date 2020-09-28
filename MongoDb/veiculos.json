@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5f7109ea5df6a83ae4da5713"
+  },
+  "modelo": "Gol",
+  "anoModelo": 2020,
+  "anoFabricacao": 2020,
+  "marca": "Volkswagen",
+  "fipe": "PLK012",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f710de62b507645a44c39e7"
+  },
+  "modelo": "Uno",
+  "anoModelo": 2018,
+  "anoFabricacao": 2018,
+  "marca": "Fiat",
+  "fipe": "PHJ013",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f710e962b507645a44c39e8"
+  },
+  "modelo": "Siena",
+  "anoModelo": 2019,
+  "anoFabricacao": 2019,
+  "marca": "Fiat",
+  "fipe": "GNM54",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f710ec92b507645a44c39e9"
+  },
+  "modelo": "Voyage",
+  "anoModelo": 2015,
+  "anoFabricacao": 2015,
+  "marca": "Volkswagen",
+  "fipe": "TDG540",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f710f0d2b507645a44c39ea"
+  },
+  "modelo": "HB20",
+  "anoModelo": 2021,
+  "anoFabricacao": 2020,
+  "marca": "Hyundai",
+  "fipe": "RGIA41",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f710f662b507645a44c39eb"
+  },
+  "modelo": "Cobalt",
+  "anoModelo": 2022,
+  "anoFabricacao": 2020,
+  "marca": "General Motors",
+  "fipe": "XIOH215",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7110202b507645a44c39ec"
+  },
+  "modelo": "Trailblazer",
+  "anoModelo": 2021,
+  "anoFabricacao": 2020,
+  "marca": "Chevrolet",
+  "fipe": "ROD1022",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7110ce2b507645a44c39ed"
+  },
+  "modelo": "Range Rover Evoque",
+  "anoModelo": 2021,
+  "anoFabricacao": 2020,
+  "marca": "Land Rover",
+  "fipe": "MON2105",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71111d2b507645a44c39ee"
+  },
+  "modelo": "BMW X8",
+  "anoModelo": 2021,
+  "anoFabricacao": 2020,
+  "marca": "BMW",
+  "fipe": "BMW1230",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71123d2b507645a44c39ef"
+  },
+  "modelo": "Tesla Cybertruck",
+  "anoModelo": 2021,
+  "anoFabricacao": 2020,
+  "marca": "Tesla",
+  "fipe": "FUT2050",
+  "__v": 0
+}]
